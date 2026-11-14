@@ -13,6 +13,7 @@
         <module>strategy</module>
         <module>strategy-spring</module>
         <module>observer</module>
+        <module>observer-spring</module>
     </modules>
 
     <properties>
