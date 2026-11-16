@@ -1,0 +1,12 @@
+notification:
+  type: EMAIL
+  smtp-host: smtp.gmail.com
+  smtp-port: 587
+  sms-api-key: sk-abc123
+  push-service-url: https://push.example.com
+
+
+payment:
+  provider: STRIPE
+  api-key: sk_live_abc123
+  timeout: 15s
